@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 300" role="img" aria-label="三種顯微鏡解析力比較">
+  <rect width="980" height="300" fill="#fffdf8"/>
+  <text x="490" y="34" text-anchor="middle" font-size="20" fill="#8f2d2c" font-family="Noto Serif TC, serif" font-weight="700">三種顯微鏡的解析尺度</text>
+  <g font-family="Noto Sans TC, sans-serif">
+    <rect x="40" y="70" width="280" height="190" rx="16" fill="#e4f1ef"/>
+    <text x="180" y="108" text-anchor="middle" font-size="16" font-weight="700" fill="#0b3a3c">光學顯微鏡</text>
+    <text x="180" y="140" text-anchor="middle" font-size="13">解析力約 200 nm</text>
+    <text x="180" y="166" text-anchor="middle" font-size="13">實用放大倍率 &lt; 2000×</text>
+    <text x="180" y="200" text-anchor="middle" font-size="13">可見光光子照明</text>
+    <text x="180" y="226" text-anchor="middle" font-size="12" fill="#14585c">可見細菌，難見多數病毒</text>
+
+    <rect x="350" y="70" width="280" height="190" rx="16" fill="#f6ead0"/>
+    <text x="490" y="108" text-anchor="middle" font-size="16" font-weight="700" fill="#8f2d2c">螢光顯微鏡</text>
+    <text x="490" y="140" text-anchor="middle" font-size="13">仍受可見光繞射限制</text>
+    <text x="490" y="166" text-anchor="middle" font-size="13">靠螢光提高對比與專一性</text>
+    <text x="490" y="200" text-anchor="middle" font-size="13">汞弧燈／激發濾片</text>
+    <text x="490" y="226" text-anchor="middle" font-size="12" fill="#9a6b1f">DFA／IFA 可標記特定抗原</text>
+
+    <rect x="660" y="70" width="280" height="190" rx="16" fill="#f3e3e0"/>
+    <text x="800" y="108" text-anchor="middle" font-size="16" font-weight="700" fill="#8f2d2c">電子顯微鏡</text>
+    <text x="800" y="140" text-anchor="middle" font-size="13">解析力可達 50 pm</text>
+    <text x="800" y="166" text-anchor="middle" font-size="13">放大倍率可達 10⁷×</text>
+    <text x="800" y="200" text-anchor="middle" font-size="13">電子束＋真空＋電磁透鏡</text>
+    <text x="800" y="226" text-anchor="middle" font-size="12" fill="#8f2d2c">可見病毒與超微結構</text>
+  </g>
+</svg>
